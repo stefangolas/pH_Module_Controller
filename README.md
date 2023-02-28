@@ -1,4 +1,6 @@
 # pH_Module_Controller
+This repo interfaces with the pH module controller submethod library
+
 
 ## Usage Instructions
 1. Make sure to git pull the latest version of PyHamilton
