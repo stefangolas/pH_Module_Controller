@@ -1,5 +1,7 @@
 # pH_Module_Controller
-This repo interfaces with the pH module controller submethod library
+This repo interfaces with the pH module controller submethod library.
+
+Note, there is a small bug in the Hamilton 
 
 
 ## Usage Instructions
