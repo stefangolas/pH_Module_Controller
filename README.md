@@ -1,7 +1,7 @@
 # pH_Module_Controller
 This repo interfaces with the pH module controller submethod library.
 
-Note, there is a small bug in the Hamilton 
+Note, there is a small bug in the Hamilton source code for the washer module. This bug throws an error if the washer is initialized in simulation mode. According to Hamilton, the bug will not prevent operation of the washer outside of simulation mode. 
 
 
 ## Usage Instructions
